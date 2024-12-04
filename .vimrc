@@ -89,3 +89,6 @@ nnoremap <silent> <C-Up>    :resize -2<CR>
 nnoremap <silent> <C-Down>  :resize +2<CR>
 nnoremap <silent> <C-Left>  :vertical resize -2<CR>
 nnoremap <silent> <C-Right> :vertical resize +2<CR>
+
+" New tab key map
+nnoremap <C-n> :tabnew<Space>
