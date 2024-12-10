@@ -10,7 +10,7 @@ My personal macOS vim configuration that I use daily.
 # Step 3: Add vim.plug
   Now we have to add the vim/neovim plugin manager.
     Do so with this command for vim and the second one for neovim.
-        Vim:
+    Vim:
         curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
         https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
         
