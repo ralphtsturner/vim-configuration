@@ -20,7 +20,7 @@ My personal macOS vim configuration that I use daily.
         https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 
 # Step 4: PlugInstall
-  after completeing these 2 steps you may type the command :PlugInstall in vim but first you have to add some git repos.
+  after completeing these 2 steps you may type the command :PlugInstall in vim or neovim.
   
 # Final Step:
   Enjoy your new .vimrc configuration :)
